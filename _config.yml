@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Mercy Chebet # your name (or website title) here
+logo: "images/Mercy%20Chebet%20Passport.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A versatile individual with experience in collecting, transforming, and organizing data for analysis to help make informed decision. Excellent understanding and proficiency of platforms for effective data analyses, including Spreadsheets, Microsoft Excel, SQL, Python and Power BI. Strong communicator,Organizational, Problem solver and adept at translating technical findings into actionable recommendations.
   <br><br>
-  Second description 
+  Recently completed the Goole Data Analytics Certificate rigorous, hands-on Program  that covers the entire scope of the data analysis process. Proven track record of delivering actionable insights to drive informed decision-making. Eager to tackle new challenges and contribute analytical expertise to drive towards success. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mercy-chebet-/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
