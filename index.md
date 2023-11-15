@@ -4,8 +4,8 @@
 
 ### Data Analysis Using SQL and Power BI 
 
-[TBI Dataset](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Traumatic Brain Injury Dataset](Traumatic Brain Injury.pdf)
+<img src="https://github.com/Chebet-Mercy/Chebet-Mercy.github.io/blob/master/images/TBI%20Dashboard_page-0001.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
