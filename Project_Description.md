@@ -10,7 +10,7 @@ More details can be found at the [Brain Injury Association Website](https://www.
 
 ### Data Dictionary
 
-## `tbi_age.csv`
+#### `tbi_age.csv`
 
 |variable         |class     |description |
 |:----------------|:---------|:-----------|
@@ -20,7 +20,7 @@ More details can be found at the [Brain Injury Association Website](https://www.
 |number_est       |double    | Estimated observed cases in 2014 |
 |rate_est         |double    | Rate/100,000 in 2014 |
 
-## `tbi_year.csv`
+ #### `tbi_year.csv`
 
 |variable         |class     |description |
 |:----------------|:---------|:-----------|
@@ -30,7 +30,7 @@ More details can be found at the [Brain Injury Association Website](https://www.
 |rate_est         |double    | Rate/100,000 in 2014 |
 |number_est       |integer   | Estimated observed cases in each year |
 
-## `tbi_military.csv`
+#### `tbi_military.csv`
 
 |variable  |class     |description |
 |:---------|:---------|:-----------|
