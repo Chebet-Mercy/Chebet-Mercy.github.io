@@ -5,7 +5,7 @@
 ### Data Analysis Using SQL and Power BI 
 
 ## [Traumatic Brain Injury](/Project_Description) 
-<img src="https://github.com/Chebet-Mercy/Chebet-Mercy.github.io/blob/master/images/TBI%20Dashboard_page-0001.jpg"/>
+<img src="https://github.com/Chebet-Mercy/Chebet-Mercy.github.io/blob/master/images/TBI%20Dashboard_page-1.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
