@@ -4,7 +4,7 @@
 
 ### Data Analysis Using SQL and Power BI 
 
-[Traumatic Brain Injury Dataset](Traumatic Brain Injury.pdf)
+## Traumatic Brain Injury (Traumatic Brain Injury.pdf)
 <img src="https://github.com/Chebet-Mercy/Chebet-Mercy.github.io/blob/master/images/TBI%20Dashboard_page-0001.jpg"/>
 
 ---
