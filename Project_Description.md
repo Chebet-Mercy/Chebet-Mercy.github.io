@@ -1,12 +1,12 @@
 ## TBI-Traumatic-Brain-Injury / project page
 
 **Project description:**
-Brain Injury Awareness Month, observed each March, was established 3 decades ago to educate the public about the incidence of brain injury and the needs of persons with brain injuries and their families (1). Traumatic Brain Injury (TBI) is caused by a bump, blow, or jolt to the head, or penetrating head injury which can lead to short- or long-term changes affecting thinking, sensation, language, or emotion.
-- [CDC](https://www.cdc.gov/mmwr/volumes/68/wr/mm6810a1.htm)
+
+Brain Injury Awareness Month, observed each March, was established 3 decades ago to educate the public about the incidence of brain injury and the needs of persons with brain injuries and their families. Traumatic Brain Injury (TBI) is caused by a bump, blow, or jolt to the head, or penetrating head injury which can lead to short- or long-term changes affecting thinking, sensation, language, or emotion.
 
 The goal of this project is to **spread awareness for just how common TBIs are - both in civilian and military populations**. 
 
-If you want to share an infographic or summary graphic from this data - please consider using the awareness hashtag: `#ChangeYourMind`, `#braininjuryawarenessmonth`, or tagging the [Brain Injury Association](https://twitter.com/biaamerica). More details can be found at the [Brain Injury Association Website](https://www.biausa.org/public-affairs/public-awareness/brain-injury-awareness).
+More details can be found at the [Brain Injury Association Website](https://www.biausa.org/public-affairs/public-awareness/brain-injury-awareness).
 
 ### Data Dictionary
 
