@@ -12,7 +12,7 @@ If you want to share an infographic or summary graphic from this data - please c
 
 ### Data Dictionary
 
-# `tbi_age.csv`
+## `tbi_age.csv`
 
 |variable         |class     |description |
 |:----------------|:---------|:-----------|
@@ -22,7 +22,7 @@ If you want to share an infographic or summary graphic from this data - please c
 |number_est       |double    | Estimated observed cases in 2014 |
 |rate_est         |double    | Rate/100,000 in 2014 |
 
-# `tbi_year.csv`
+## `tbi_year.csv`
 
 |variable         |class     |description |
 |:----------------|:---------|:-----------|
@@ -32,7 +32,7 @@ If you want to share an infographic or summary graphic from this data - please c
 |rate_est         |double    | Rate/100,000 in 2014 |
 |number_est       |integer   | Estimated observed cases in each year |
 
-# `tbi_military.csv`
+## `tbi_military.csv`
 
 |variable  |class     |description |
 |:---------|:---------|:-----------|
@@ -47,8 +47,8 @@ The TBI data was analysed and manipulated using SQL
 
 For more details see [TBI SQL Script](https://github.com/Chebet-Mercy/TBI-Traumatic-Brain-Injury/blob/main/TBI%20script.sql/).
 
-### 4. Visualizations of the TBI Data
-
+### 4. Presentation of the TBI Data
+The 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
