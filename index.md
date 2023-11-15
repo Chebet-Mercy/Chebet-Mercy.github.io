@@ -5,7 +5,7 @@
 ### Data Analysis Using SQL and Power BI 
 
 ## [Traumatic Brain Injury](/Project_Description) 
-<img src="images/TBI.jpg?raw=true"/>
+<img src="images/TBI.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
