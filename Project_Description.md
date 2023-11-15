@@ -46,5 +46,5 @@ The TBI data was analysed and manipulated using SQL
 For more details see [TBI SQL Script](https://github.com/Chebet-Mercy/TBI-Traumatic-Brain-Injury/blob/main/TBI%20script.sql/).
 
 ### 4. Presentation of the TBI Data
-The Final presentation of TBI Data [Traumatic Brain Injury](https://github.com/Chebet-Mercy/Chebet-Mercy.github.io/blob/master/Traumatic%20Brain%20Injury.pdf)
+The Final presentation of TBI  [Traumatic Brain Injury](https://github.com/Chebet-Mercy/Chebet-Mercy.github.io/blob/master/Traumatic%20Brain%20Injury.pdf)
 
